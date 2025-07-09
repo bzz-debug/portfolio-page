@@ -314,3 +314,10 @@ button[type="submit"]:hover {
 section#footer {
   padding: var(--space-l) var(--space-l);
 }
+
+.logo {
+  float: left;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
