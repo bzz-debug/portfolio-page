@@ -317,6 +317,8 @@ section#footer {
 
 .logo {
   float: left;
+  display: block;
+
   width: 10px;
   height: 10px;
   object-fit: cover;
