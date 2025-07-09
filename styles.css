@@ -319,8 +319,7 @@ section#footer {
   float: left;
   display: block;
 
-  width: 100px !important;
+  width: 150px !important;
   height: 100px !important;
-  border: 2px solid red;
   object-fit: cover;
 }
