@@ -160,10 +160,6 @@ h5,
   text-align: right;
 }
 
-#projects-title {
-  margin-bottom: 20px;
-}
-
 /* define spacing */
 .padding-top-3xs {
   padding: var(--space-3xs);
