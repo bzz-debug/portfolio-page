@@ -342,6 +342,6 @@ section#footer {
   flex-direction: column;
   padding: 25px 0;
 }
-#about-me-description .about-me p:first-of-type {
+#about-me-description .about-me:first-of-type {
   margin-bottom: 20px;
 }
