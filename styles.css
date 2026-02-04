@@ -323,6 +323,7 @@ section#footer {
   width: 350px !important;
   height: 150px !important;
   object-fit: contain;
+  margin-bottom: 5px;
 }
 
 #contact-text {
