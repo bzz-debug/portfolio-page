@@ -207,7 +207,8 @@ section {
 }
 
 section#hero {
-  background: linear-gradient(rgba(26, 26, 64, 0.9), rgba(26, 26, 64, 0.9)),
+  background:
+    linear-gradient(rgba(26, 26, 64, 0.9), rgba(26, 26, 64, 0.9)),
     url("/assets/background_image.jpg");
   padding-bottom: 4px;
   background-size: cover;
@@ -331,4 +332,12 @@ section#footer {
 }
 .text_left {
   font-size: 1.2rem;
+}
+
+.about-me {
+}
+
+#about-me-description {
+  display: flex;
+  flex-direction: column;
 }
