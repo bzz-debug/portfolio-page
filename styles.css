@@ -335,10 +335,10 @@ section#footer {
 }
 
 .about-me {
+  margin: 25px 0;
 }
 
 #about-me-description {
   display: flex;
   flex-direction: column;
-  margin: 25px 0;
 }
